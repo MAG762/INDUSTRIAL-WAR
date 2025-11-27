@@ -1,1 +1,1 @@
-Итоговый проект IT-Cube на C++ + Unreal Engen 4.
+The first game project is Unreale Engine. 2022. Shooting, riding and simple enemies)).
